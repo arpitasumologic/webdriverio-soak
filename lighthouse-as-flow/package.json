@@ -1,5 +1,5 @@
 {
-  "name": "lighthouse-advanced",
+  "name": "lighthouse-as-flow",
   "type": "module",
   "devDependencies": {
     "@types/webdriverio": "^4.13.3",
